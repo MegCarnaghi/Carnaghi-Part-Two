@@ -10,4 +10,4 @@ let rainAmt = prompt(
 let rainInches = rainSymbol.repeat(rainAmt);
 
 // console.log the asterisks reperesenting the inches of rain received.
-console.log("Inches of rain received: " + rainInches);
+// console.log("Inches of rain received: " + rainInches);
