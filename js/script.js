@@ -39,7 +39,7 @@ function usedFertilizerPrompt() {
     alert("Thank you for your responses. Check the console for your answers.");
     let rainImpact = bushels * 0.9;
     console.log(
-      "No fertilizer was used but there was a lot of rain. The expected crop yield is " +
+      "No fertilizer was used and there was a lot of rain. The expected crop yield is " +
         rainImpact +
         " bushels."
     );
@@ -126,7 +126,7 @@ function typeOfFertilizerPrompt() {
     let finalYield = rainImpact * 0.15 + rainImpact;
     console.log(
       typeFertilizer +
-        " fertilizer was used but there was not much rain. The expected crop yield is " +
+        " fertilizer was used and there was not much rain. The expected crop yield is " +
         finalYield +
         " bushels."
     );
