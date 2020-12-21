@@ -16,3 +16,7 @@ Deliverable 2 for Grand Circus Front-End Coding Bootcamp: A JavaScript program t
 - JavaScript
 
 ## Link to Demo Video & Screenshots
+
+![User Prompt](screenshots/user-prompt.jpg)  
+![Console Log](screenshots/console-log.jpg)  
+![Alert](screenshots/alert.jpg)
